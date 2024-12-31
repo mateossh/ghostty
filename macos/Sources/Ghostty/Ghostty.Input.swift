@@ -139,17 +139,18 @@ extension Ghostty {
         GHOSTTY_KEY_Z: "z",
 
         // Symbols
-        GHOSTTY_KEY_APOSTROPHE: "'",
-        GHOSTTY_KEY_BACKSLASH: "\\",
-        GHOSTTY_KEY_COMMA: ",",
-        GHOSTTY_KEY_EQUAL: "=",
-        GHOSTTY_KEY_GRAVE_ACCENT: "`",
-        GHOSTTY_KEY_LEFT_BRACKET: "[",
-        GHOSTTY_KEY_MINUS: "-",
-        GHOSTTY_KEY_PERIOD: ".",
-        GHOSTTY_KEY_RIGHT_BRACKET: "]",
         GHOSTTY_KEY_SEMICOLON: ";",
+        GHOSTTY_KEY_APOSTROPHE: "'",
+        GHOSTTY_KEY_COMMA: ",",
+        GHOSTTY_KEY_GRAVE_ACCENT: "`",
+        GHOSTTY_KEY_PERIOD: ".",
         GHOSTTY_KEY_SLASH: "/",
+        GHOSTTY_KEY_MINUS: "-",
+        GHOSTTY_KEY_PLUS: "+",
+        GHOSTTY_KEY_EQUAL: "=",
+        GHOSTTY_KEY_LEFT_BRACKET: "[",
+        GHOSTTY_KEY_RIGHT_BRACKET: "]",
+        GHOSTTY_KEY_BACKSLASH: "\\",
 
         // Function keys
         GHOSTTY_KEY_UP: "\u{F700}",
